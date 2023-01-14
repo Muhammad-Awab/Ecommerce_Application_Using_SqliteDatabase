@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1671610200 source:d:\sqllite\demo\project3\shopping.cpp
+	<iomanip>
+	<iostream>
+	<string>
+	<sstream>
+	<sqlite3.h>
+	<windows.h>
+	"trees.h"
+	"animation.h"
+	"stackme.h"
+	<chrono>
+	<ctime>
+
+1671350386 d:\sqllite\demo\project3\queue1.h
+	<iostream>
+
+1671467121 d:\sqllite\demo\project3\animation.h
+	<iostream>
+
+1671472901 d:\sqllite\demo\project3\stackme.h
+
+1671511479 d:\sqllite\demo\project3\trees.h
+	<iostream>
+
